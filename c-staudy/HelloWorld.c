@@ -9,7 +9,7 @@ int main(void)
 	char name[50];
 	scanf("%s", name);
 
-	printf("Hello %s, welcome to c language!!\n", name);
+	printf("☆★Hello %s, welcome to c language★☆\n", name);
 
 	return 0;
 }
