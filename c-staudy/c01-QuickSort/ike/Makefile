@@ -1,4 +1,5 @@
-SRC = quickSort.c
+SRC = qs_main.c
+SRC += qs_select.c
 
 target = quickSort
 

@@ -9,10 +9,3 @@ int main()
 	
 	return 0;
 }
-
-int Select(int *x, int n, int k)
-{
-	int ret = 0;
-
-	return ret;
-}
